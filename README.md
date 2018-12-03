@@ -1,3 +1,5 @@
+This Repo is archived, please check the [rich-text](https://github.com/contentful/rich-text) library for the transformer plugin
+
 # gatsby-transformer-contentful-richtext
 
 Parses Contentful Rich Text document
